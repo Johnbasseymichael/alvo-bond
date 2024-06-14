@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    --bg: #1c1f2e;
+    --bg-dark: #242736;
+    --text1: rgb(187, 187, 187);
+    --pri: rgb(3, 79, 73);
+}
+
+.myCallContainer {
+    background: var(--bg);
+    color: var(--text1) !important;
+    font-family: sans-serif;
+
+    .BYpXSnOHfrC2td4QRijO {
+        .zzHlKp_IVmgXBPV3Jv58 {
+            .D9WLyEQaARfWqCTyVrpU {
+                background: var(--bg);
+                box-shadow: 0px 4px 20px 0px var(--text1);
+                border: none;
+                width: 90%;
+
+                .sJcgXLqA2Va2eqymgksg {
+                    background: var(--bg-dark);
+                    width: 50%;
+                }
+
+                .pOvRwHj19chJGkgemUH3 {
+                    width: 50%;
+
+                    .rQfcdxdAd98I2u3wR_Xv {
+                        ._M8cCug8H18ALQ05cNMt {
+                            font-size: 2rem;
+                            color: var(--text1);
+                            width: 100%;
+                        }
+
+                        input {
+                            background: none;
+                            border: 2px solid var(--text1);
+                            color: var(--text1);
+                            width: 100%;
+                        }
+
+                        .b1CJxMvQdas9l4lGoyfA {
+                            button {
+                                background: var(--pri);
+                                color: var(--text1);
+                                font-size: 1rem;
+                                width: 100%;
+                            }
+                        }
+                    }
+
+                    .dQDNvqxeCXpZG5yOs9Ou {
+                        ._M8cCug8H18ALQ05cNMt {
+                            color: var(--text1);
+                        }
+
+                        .VNZilENM9Pb7KbRFOkYR {
+                            background: none;
+                            border: 2px solid var(--text1);
+
+                            .rfwQfzz6DVBVPNyQIs9o {
+                                h3 {
+                                    color: var(--text1);
+                                }
+                                input {
+                                    background: none;
+                                    color: var(--text1);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 725px) {
+    .myCallContainer {
+        .BYpXSnOHfrC2td4QRijO {
+            // .D9WLyEQaARfWqCTyVrpU {
+            //     flex-direction: column;
+            //     width: fit-content;
+            // }
+        }
+    }
+}
