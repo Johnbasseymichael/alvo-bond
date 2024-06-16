@@ -1,0 +1,72 @@
+.myCallContainer {
+    font-family: sans-serif;
+    min-height: 100vh !important;
+    min-height: 100svh !important;
+
+    .BYpXSnOHfrC2td4QRijO {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .jF_DhwXwBFswm5nphXHX {
+            margin: 0;
+            background: var(--bg);
+
+            .VdaXgamc4uLcVqxdjRnv {
+                background: var(--bg-dark);
+            }
+
+            .gxxR6ODqyJjd8U9gRbae {
+                .AmKXNJUm0SmWgO90daLW {
+                    label {
+                        color: var(--text1);
+                        font-size: 1.4rem;
+                        background: var(--bg);
+                        font-weight: 600;
+                        font-family: sans-serif;
+                    }
+
+                    input {
+                        background: none;
+                        border: 2px solid var(--text1);
+                        color: var(--text1);
+                        font-size: 1.2rem;
+                        padding: 1.3rem 1rem;
+                    }
+
+                    button {
+                        font-size: 1rem;
+                        font-family: sans-serif;
+                        background: var(--pri);
+                        font-weight: 600;
+                    }
+                }
+                .nL8WyhhEeNnQ5CaeQTPo {
+                    background: none;
+                    border: 2px solid var(--text1);
+
+                    .UkIxy4UArOtDv6p8w7iX {
+                        h3 {
+                            font-family: sans-serif;
+                            color: var(--text1);
+                            font-weight: 600;
+                            font-size: 1.2rem;
+                        }
+
+                        input {
+                            background: none;
+                            margin-top: 0.4rem;
+                            font-size: 0.9rem;
+                            font-weight: 500;
+                        }
+                    }
+
+                    button {
+                        width: 2.6rem;
+                        height: 2.6rem;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    --bg: #1c1f2e;
+    --bg-dark: #242736;
+    --text1: rgb(187, 187, 187);
+    --pri: rgb(3, 79, 73);
+}
